@@ -1,0 +1,11 @@
+{
+ "source": "NASA LRO QuickMap (LOLA DEM / GLD100 slope), values read at cursor, 200 m/px. See docs/QuickMap_LROC_report_AR.pdf",
+ "sites": [
+  {"name": "Apollo 11",            "lat": 1.50,   "lon": 25.27,  "elevation_m": -2160.91, "slope_deg": 0.86128},
+  {"name": "Apollo 17",            "lat": 19.84,  "lon": 33.44,  "elevation_m": -2450.12, "slope_deg": 4.53458},
+  {"name": "Chang'e 4",            "lat": -45.38, "lon": 179.08, "elevation_m": -5870.66, "slope_deg": 0.28669},
+  {"name": "Chandrayaan-3",        "lat": -69.24, "lon": 34.28,  "elevation_m": 983.24,   "slope_deg": 4.56733},
+  {"name": "Shackleton rim (LOLA_SPOLE)",   "lat": -88.21, "lon": 274.17, "elevation_m": 6111.32, "slope_deg": 16.28},
+  {"name": "Shackleton floor point (LOLA_SPOLE)", "lat": -85.36, "lon": 30.85, "elevation_m": null, "slope_deg": 0.09}
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "sites": [
+  {
+   "name": "Apollo 11",
+   "quickmap_elev_m": -2160.91,
+   "grid_elev_m": -2086,
+   "elev_diff_m": 75,
+   "quickmap_local_slope_deg": 0.86128,
+   "grid_regional_slope_deg": 0.3
+  },
+  {
+   "name": "Apollo 17",
+   "quickmap_elev_m": -2450.12,
+   "grid_elev_m": -1206,
+   "elev_diff_m": 1244,
+   "quickmap_local_slope_deg": 4.53458,
+   "grid_regional_slope_deg": 1.9
+  },
+  {
+   "name": "Chang'e 4",
+   "quickmap_elev_m": -5870.66,
+   "grid_elev_m": -5514,
+   "elev_diff_m": 357,
+   "quickmap_local_slope_deg": 0.28669,
+   "grid_regional_slope_deg": 4.7
+  },
+  {
+   "name": "Chandrayaan-3",
+   "quickmap_elev_m": 983.24,
+   "grid_elev_m": 673,
+   "elev_diff_m": -310,
+   "quickmap_local_slope_deg": 4.56733,
+   "grid_regional_slope_deg": 1.2
+  },
+  {
+   "name": "Shackleton rim (LOLA_SPOLE)",
+   "quickmap_elev_m": 6111.32,
+   "grid_elev_m": -657,
+   "elev_diff_m": -6768,
+   "quickmap_local_slope_deg": 16.28,
+   "grid_regional_slope_deg": 6.0
+  },
+  {
+   "name": "Shackleton floor point (LOLA_SPOLE)",
+   "quickmap_elev_m": null,
+   "grid_elev_m": 4582,
+   "elev_diff_m": null,
+   "quickmap_local_slope_deg": 0.09,
+   "grid_regional_slope_deg": 9.1
+  }
+ ],
+ "sun": {
+  "offset_0": {
+   "samples": 245,
+   "mean_abs_deg": 2.6,
+   "max_abs_deg": 4.01
+  },
+  "offset_2.6": {
+   "samples": 245,
+   "mean_abs_deg": 0.53,
+   "max_abs_deg": 1.37
+  }
+ }
+}
